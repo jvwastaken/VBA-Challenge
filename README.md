@@ -9,4 +9,5 @@ There are a total of 4 separate Macros.
 Xpert Learning Assistant was used to double-check organization of code for each macro ("Sub").  
 Xpert Learning Assistant was also used for conditional formatting using `xlNone` to leave cells unfilled if they are empty.  
 
-All 4 Macros are on one single Module in the VBA Window.
+All 4 Macros are on one single Module in the VBA Window.  
+Screenshots of the worksheets can be found in the branch _Screenshots_.  
