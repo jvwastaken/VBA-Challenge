@@ -1,6 +1,6 @@
 # VBA-Challenge
 
-There are a total of 4 Subs.
+There are a total of 4 Subs.  
   Stocks - main code for running through the datasets across all 3 worksheets and output into columns J - M (Summary Table).  
   PercentIncrease - finds the Greatest % Increase from the data in columns J - M.  
   PercentDecrease - finds the Greatest % Decrease from the data in columns J - M.  
